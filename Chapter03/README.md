@@ -39,7 +39,7 @@ cout << "Hello, " << first_name << "!\n";
 - 문자열(string) : "Annemarie", "Hello, World!\n"
 - 논리(bool) : true, false
 ### 변수란 무엇인가?
-
+변수는 컴퓨터 메모리에서 정보를 저장하기 위해 할당된 영역으로, 저장할 수 있는 정보의 종류를 지정하는 타입(type)을 가진다.
 ### `char`와 `int`, `double`의 일반적인 크기는 얼마인가?
 - `char`는 1바이트(8비트)
 - `int`는 4바이트(32비트)
